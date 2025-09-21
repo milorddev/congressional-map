@@ -1,0 +1,2187 @@
+{
+  "1000": {
+    "name": "Sarah McBride",
+    "party": "D",
+    "district": "At Large"
+  },
+  "1198": {
+    "name": "Eleanor Holmes Norton",
+    "party": "D",
+    "district": "Delegate"
+  },
+  "1201": {
+    "name": "Jimmy Patronis",
+    "party": "R",
+    "district": "1st"
+  },
+  "1202": {
+    "name": "Neal P. Dunn",
+    "party": "R",
+    "district": "2nd"
+  },
+  "1203": {
+    "name": "Kat Cammack",
+    "party": "R",
+    "district": "3rd"
+  },
+  "1204": {
+    "name": "Aaron Bean",
+    "party": "R",
+    "district": "4th"
+  },
+  "1205": {
+    "name": "John H. Rutherford",
+    "party": "R",
+    "district": "5th"
+  },
+  "1206": {
+    "name": "Randy Fine",
+    "party": "R",
+    "district": "6th"
+  },
+  "1207": {
+    "name": "Cory Mills",
+    "party": "R",
+    "district": "7th"
+  },
+  "1208": {
+    "name": "Mike Haridopolos",
+    "party": "R",
+    "district": "8th"
+  },
+  "1209": {
+    "name": "Darren Soto",
+    "party": "D",
+    "district": "9th"
+  },
+  "1210": {
+    "name": "Maxwell Frost",
+    "party": "D",
+    "district": "10th"
+  },
+  "1211": {
+    "name": "Daniel Webster",
+    "party": "R",
+    "district": "11th"
+  },
+  "1212": {
+    "name": "Gus M. Bilirakis",
+    "party": "R",
+    "district": "12th"
+  },
+  "1213": {
+    "name": "Anna Paulina Luna",
+    "party": "R",
+    "district": "13th"
+  },
+  "1214": {
+    "name": "Kathy Castor",
+    "party": "D",
+    "district": "14th"
+  },
+  "1215": {
+    "name": "Laurel M. Lee",
+    "party": "R",
+    "district": "15th"
+  },
+  "1216": {
+    "name": "Vern Buchanan",
+    "party": "R",
+    "district": "16th"
+  },
+  "1217": {
+    "name": "W. Gregory Steube",
+    "party": "R",
+    "district": "17th"
+  },
+  "1218": {
+    "name": "Scott Franklin",
+    "party": "R",
+    "district": "18th"
+  },
+  "1219": {
+    "name": "Byron Donalds",
+    "party": "R",
+    "district": "19th"
+  },
+  "1220": {
+    "name": "Sheila Cherfilus-McCormick",
+    "party": "D",
+    "district": "20th"
+  },
+  "1221": {
+    "name": "Brian J. Mast",
+    "party": "R",
+    "district": "21st"
+  },
+  "1222": {
+    "name": "Lois Frankel",
+    "party": "D",
+    "district": "22nd"
+  },
+  "1223": {
+    "name": "Jared Moskowitz",
+    "party": "D",
+    "district": "23rd"
+  },
+  "1224": {
+    "name": "Frederica S. Wilson",
+    "party": "D",
+    "district": "24th"
+  },
+  "1225": {
+    "name": "Debbie Wasserman Schultz",
+    "party": "D",
+    "district": "25th"
+  },
+  "1226": {
+    "name": "Mario Diaz-Balart",
+    "party": "R",
+    "district": "26th"
+  },
+  "1227": {
+    "name": "Maria Elvira Salazar",
+    "party": "R",
+    "district": "27th"
+  },
+  "1228": {
+    "name": "Carlos A. Gimenez",
+    "party": "R",
+    "district": "28th"
+  },
+  "1301": {
+    "name": "Earl L. \"Buddy\" Carter",
+    "party": "R",
+    "district": "1st"
+  },
+  "1302": {
+    "name": "Sanford D. Bishop, Jr.",
+    "party": "D",
+    "district": "2nd"
+  },
+  "1303": {
+    "name": "Brian Jack",
+    "party": "R",
+    "district": "3rd"
+  },
+  "1304": {
+    "name": "Henry C. \"Hank\" Johnson, Jr.",
+    "party": "D",
+    "district": "4th"
+  },
+  "1305": {
+    "name": "Nikema Williams",
+    "party": "D",
+    "district": "5th"
+  },
+  "1306": {
+    "name": "Lucy McBath",
+    "party": "D",
+    "district": "6th"
+  },
+  "1307": {
+    "name": "Richard McCormick",
+    "party": "R",
+    "district": "7th"
+  },
+  "1308": {
+    "name": "Austin Scott",
+    "party": "R",
+    "district": "8th"
+  },
+  "1309": {
+    "name": "Andrew S. Clyde",
+    "party": "R",
+    "district": "9th"
+  },
+  "1310": {
+    "name": "Mike Collins",
+    "party": "R",
+    "district": "10th"
+  },
+  "1311": {
+    "name": "Barry Loudermilk",
+    "party": "R",
+    "district": "11th"
+  },
+  "1312": {
+    "name": "Rick W. Allen",
+    "party": "R",
+    "district": "12th"
+  },
+  "1313": {
+    "name": "David Scott",
+    "party": "D",
+    "district": "13th"
+  },
+  "1314": {
+    "name": "Marjorie Taylor Greene",
+    "party": "R",
+    "district": "14th"
+  },
+  "1501": {
+    "name": "Ed Case",
+    "party": "D",
+    "district": "1st"
+  },
+  "1502": {
+    "name": "Jill N. Tokuda",
+    "party": "D",
+    "district": "2nd"
+  },
+  "1601": {
+    "name": "Russ Fulcher",
+    "party": "R",
+    "district": "1st"
+  },
+  "1602": {
+    "name": "Michael K. Simpson",
+    "party": "R",
+    "district": "2nd"
+  },
+  "1701": {
+    "name": "Jonathan L. Jackson",
+    "party": "D",
+    "district": "1st"
+  },
+  "1702": {
+    "name": "Robin L. Kelly",
+    "party": "D",
+    "district": "2nd"
+  },
+  "1703": {
+    "name": "Delia C. Ramirez",
+    "party": "D",
+    "district": "3rd"
+  },
+  "1704": {
+    "name": "Jesús G. \"Chuy\" García",
+    "party": "D",
+    "district": "4th"
+  },
+  "1705": {
+    "name": "Mike Quigley",
+    "party": "D",
+    "district": "5th"
+  },
+  "1706": {
+    "name": "Sean Casten",
+    "party": "D",
+    "district": "6th"
+  },
+  "1707": {
+    "name": "Danny K. Davis",
+    "party": "D",
+    "district": "7th"
+  },
+  "1708": {
+    "name": "Raja Krishnamoorthi",
+    "party": "D",
+    "district": "8th"
+  },
+  "1709": {
+    "name": "Janice D. Schakowsky",
+    "party": "D",
+    "district": "9th"
+  },
+  "1710": {
+    "name": "Bradley Scott Schneider",
+    "party": "D",
+    "district": "10th"
+  },
+  "1711": {
+    "name": "Bill Foster",
+    "party": "D",
+    "district": "11th"
+  },
+  "1712": {
+    "name": "Mike Bost",
+    "party": "R",
+    "district": "12th"
+  },
+  "1713": {
+    "name": "Nikki Budzinski",
+    "party": "D",
+    "district": "13th"
+  },
+  "1714": {
+    "name": "Lauren Underwood",
+    "party": "D",
+    "district": "14th"
+  },
+  "1715": {
+    "name": "Mary E. Miller",
+    "party": "R",
+    "district": "15th"
+  },
+  "1716": {
+    "name": "Darin LaHood",
+    "party": "R",
+    "district": "16th"
+  },
+  "1717": {
+    "name": "Eric Sorensen",
+    "party": "D",
+    "district": "17th"
+  },
+  "1801": {
+    "name": "Frank J. Mrvan",
+    "party": "D",
+    "district": "1st"
+  },
+  "1802": {
+    "name": "Rudy Yakym III",
+    "party": "R",
+    "district": "2nd"
+  },
+  "1803": {
+    "name": "Marlin A. Stutzman",
+    "party": "R",
+    "district": "3rd"
+  },
+  "1804": {
+    "name": "James R. Baird",
+    "party": "R",
+    "district": "4th"
+  },
+  "1805": {
+    "name": "Victoria Spartz",
+    "party": "R",
+    "district": "5th"
+  },
+  "1806": {
+    "name": "Jefferson Shreve",
+    "party": "R",
+    "district": "6th"
+  },
+  "1807": {
+    "name": "André Carson",
+    "party": "D",
+    "district": "7th"
+  },
+  "1808": {
+    "name": "Mark B. Messmer",
+    "party": "R",
+    "district": "8th"
+  },
+  "1809": {
+    "name": "Erin Houchin",
+    "party": "R",
+    "district": "9th"
+  },
+  "1901": {
+    "name": "Mariannette Miller-Meeks",
+    "party": "R",
+    "district": "1st"
+  },
+  "1902": {
+    "name": "Ashley Hinson",
+    "party": "R",
+    "district": "2nd"
+  },
+  "1903": {
+    "name": "Zachary Nunn",
+    "party": "R",
+    "district": "3rd"
+  },
+  "1904": {
+    "name": "Randy Feenstra",
+    "party": "R",
+    "district": "4th"
+  },
+  "2001": {
+    "name": "Tracey Mann",
+    "party": "R",
+    "district": "1st"
+  },
+  "2002": {
+    "name": "Derek Schmidt",
+    "party": "R",
+    "district": "2nd"
+  },
+  "2003": {
+    "name": "Sharice Davids",
+    "party": "D",
+    "district": "3rd"
+  },
+  "2004": {
+    "name": "Ron Estes",
+    "party": "R",
+    "district": "4th"
+  },
+  "2101": {
+    "name": "James Comer",
+    "party": "R",
+    "district": "1st"
+  },
+  "2102": {
+    "name": "Brett Guthrie",
+    "party": "R",
+    "district": "2nd"
+  },
+  "2103": {
+    "name": "Morgan McGarvey",
+    "party": "D",
+    "district": "3rd"
+  },
+  "2104": {
+    "name": "Thomas Massie",
+    "party": "R",
+    "district": "4th"
+  },
+  "2105": {
+    "name": "Harold Rogers",
+    "party": "R",
+    "district": "5th"
+  },
+  "2106": {
+    "name": "Andy Barr",
+    "party": "R",
+    "district": "6th"
+  },
+  "2201": {
+    "name": "Steve Scalise",
+    "party": "R",
+    "district": "1st"
+  },
+  "2202": {
+    "name": "Troy A. Carter",
+    "party": "D",
+    "district": "2nd"
+  },
+  "2203": {
+    "name": "Clay Higgins",
+    "party": "R",
+    "district": "3rd"
+  },
+  "2204": {
+    "name": "Mike Johnson",
+    "party": "R",
+    "district": "4th"
+  },
+  "2205": {
+    "name": "Julia Letlow",
+    "party": "R",
+    "district": "5th"
+  },
+  "2206": {
+    "name": "Cleo Fields",
+    "party": "D",
+    "district": "6th"
+  },
+  "2301": {
+    "name": "Chellie Pingree",
+    "party": "D",
+    "district": "1st"
+  },
+  "2302": {
+    "name": "Jared F. Golden",
+    "party": "D",
+    "district": "2nd"
+  },
+  "2401": {
+    "name": "Andy Harris",
+    "party": "R",
+    "district": "1st"
+  },
+  "2402": {
+    "name": "Johnny Olszewski, Jr.",
+    "party": "D",
+    "district": "2nd"
+  },
+  "2403": {
+    "name": "Sarah Elfreth",
+    "party": "D",
+    "district": "3rd"
+  },
+  "2404": {
+    "name": "Glenn Ivey",
+    "party": "D",
+    "district": "4th"
+  },
+  "2405": {
+    "name": "Steny H. Hoyer",
+    "party": "D",
+    "district": "5th"
+  },
+  "2406": {
+    "name": "April McClain Delaney",
+    "party": "D",
+    "district": "6th"
+  },
+  "2407": {
+    "name": "Kweisi Mfume",
+    "party": "D",
+    "district": "7th"
+  },
+  "2408": {
+    "name": "Jamie Raskin",
+    "party": "D",
+    "district": "8th"
+  },
+  "2501": {
+    "name": "Richard E. Neal",
+    "party": "D",
+    "district": "1st"
+  },
+  "2502": {
+    "name": "James P. McGovern",
+    "party": "D",
+    "district": "2nd"
+  },
+  "2503": {
+    "name": "Lori Trahan",
+    "party": "D",
+    "district": "3rd"
+  },
+  "2504": {
+    "name": "Jake Auchincloss",
+    "party": "D",
+    "district": "4th"
+  },
+  "2505": {
+    "name": "Katherine M. Clark",
+    "party": "D",
+    "district": "5th"
+  },
+  "2506": {
+    "name": "Seth Moulton",
+    "party": "D",
+    "district": "6th"
+  },
+  "2507": {
+    "name": "Ayanna Pressley",
+    "party": "D",
+    "district": "7th"
+  },
+  "2508": {
+    "name": "Stephen F. Lynch",
+    "party": "D",
+    "district": "8th"
+  },
+  "2509": {
+    "name": "William R. Keating",
+    "party": "D",
+    "district": "9th"
+  },
+  "2601": {
+    "name": "Jack Bergman",
+    "party": "R",
+    "district": "1st"
+  },
+  "2602": {
+    "name": "John R. Moolenaar",
+    "party": "R",
+    "district": "2nd"
+  },
+  "2603": {
+    "name": "Hillary J. Scholten",
+    "party": "D",
+    "district": "3rd"
+  },
+  "2604": {
+    "name": "Bill Huizenga",
+    "party": "R",
+    "district": "4th"
+  },
+  "2605": {
+    "name": "Tim Walberg",
+    "party": "R",
+    "district": "5th"
+  },
+  "2606": {
+    "name": "Debbie Dingell",
+    "party": "D",
+    "district": "6th"
+  },
+  "2607": {
+    "name": "Tom Barrett",
+    "party": "R",
+    "district": "7th"
+  },
+  "2608": {
+    "name": "Kristen McDonald Rivet",
+    "party": "D",
+    "district": "8th"
+  },
+  "2609": {
+    "name": "Lisa C. McClain",
+    "party": "R",
+    "district": "9th"
+  },
+  "2610": {
+    "name": "John James",
+    "party": "R",
+    "district": "10th"
+  },
+  "2611": {
+    "name": "Haley M. Stevens",
+    "party": "D",
+    "district": "11th"
+  },
+  "2612": {
+    "name": "Rashida Tlaib",
+    "party": "D",
+    "district": "12th"
+  },
+  "2613": {
+    "name": "Shri Thanedar",
+    "party": "D",
+    "district": "13th"
+  },
+  "2701": {
+    "name": "Brad Finstad",
+    "party": "R",
+    "district": "1st"
+  },
+  "2702": {
+    "name": "Angie Craig",
+    "party": "D",
+    "district": "2nd"
+  },
+  "2703": {
+    "name": "Kelly Morrison",
+    "party": "D",
+    "district": "3rd"
+  },
+  "2704": {
+    "name": "Betty McCollum",
+    "party": "D",
+    "district": "4th"
+  },
+  "2705": {
+    "name": "Ilhan Omar",
+    "party": "D",
+    "district": "5th"
+  },
+  "2706": {
+    "name": "Tom Emmer",
+    "party": "R",
+    "district": "6th"
+  },
+  "2707": {
+    "name": "Michelle Fischbach",
+    "party": "R",
+    "district": "7th"
+  },
+  "2708": {
+    "name": "Pete Stauber",
+    "party": "R",
+    "district": "8th"
+  },
+  "2801": {
+    "name": "Trent Kelly",
+    "party": "R",
+    "district": "1st"
+  },
+  "2802": {
+    "name": "Bennie G. Thompson",
+    "party": "D",
+    "district": "2nd"
+  },
+  "2803": {
+    "name": "Michael Guest",
+    "party": "R",
+    "district": "3rd"
+  },
+  "2804": {
+    "name": "Mike Ezell",
+    "party": "R",
+    "district": "4th"
+  },
+  "2901": {
+    "name": "Wesley Bell",
+    "party": "D",
+    "district": "1st"
+  },
+  "2902": {
+    "name": "Ann Wagner",
+    "party": "R",
+    "district": "2nd"
+  },
+  "2903": {
+    "name": "Robert F. Onder, Jr.",
+    "party": "R",
+    "district": "3rd"
+  },
+  "2904": {
+    "name": "Mark Alford",
+    "party": "R",
+    "district": "4th"
+  },
+  "2905": {
+    "name": "Emanuel Cleaver",
+    "party": "D",
+    "district": "5th"
+  },
+  "2906": {
+    "name": "Sam Graves",
+    "party": "R",
+    "district": "6th"
+  },
+  "2907": {
+    "name": "Eric Burlison",
+    "party": "R",
+    "district": "7th"
+  },
+  "2908": {
+    "name": "Jason Smith",
+    "party": "R",
+    "district": "8th"
+  },
+  "3001": {
+    "name": "Ryan K. Zinke",
+    "party": "R",
+    "district": "1st"
+  },
+  "3002": {
+    "name": "Troy Downing",
+    "party": "R",
+    "district": "2nd"
+  },
+  "3101": {
+    "name": "Mike Flood",
+    "party": "R",
+    "district": "1st"
+  },
+  "3102": {
+    "name": "Don Bacon",
+    "party": "R",
+    "district": "2nd"
+  },
+  "3103": {
+    "name": "Adrian Smith",
+    "party": "R",
+    "district": "3rd"
+  },
+  "3201": {
+    "name": "Dina Titus",
+    "party": "D",
+    "district": "1st"
+  },
+  "3202": {
+    "name": "Mark E. Amodei",
+    "party": "R",
+    "district": "2nd"
+  },
+  "3203": {
+    "name": "Susie Lee",
+    "party": "D",
+    "district": "3rd"
+  },
+  "3204": {
+    "name": "Steven Horsford",
+    "party": "D",
+    "district": "4th"
+  },
+  "3301": {
+    "name": "Chris Pappas",
+    "party": "D",
+    "district": "1st"
+  },
+  "3302": {
+    "name": "Maggie Goodlander",
+    "party": "D",
+    "district": "2nd"
+  },
+  "3401": {
+    "name": "Donald Norcross",
+    "party": "D",
+    "district": "1st"
+  },
+  "3402": {
+    "name": "Jefferson Van Drew",
+    "party": "R",
+    "district": "2nd"
+  },
+  "3403": {
+    "name": "Herbert C. Conaway, Jr.",
+    "party": "D",
+    "district": "3rd"
+  },
+  "3404": {
+    "name": "Christopher H. Smith",
+    "party": "R",
+    "district": "4th"
+  },
+  "3405": {
+    "name": "Josh Gottheimer",
+    "party": "D",
+    "district": "5th"
+  },
+  "3406": {
+    "name": "Frank Pallone, Jr.",
+    "party": "D",
+    "district": "6th"
+  },
+  "3407": {
+    "name": "Thomas H. Kean, Jr.",
+    "party": "R",
+    "district": "7th"
+  },
+  "3408": {
+    "name": "Robert Menendez",
+    "party": "D",
+    "district": "8th"
+  },
+  "3409": {
+    "name": "Nellie Pou",
+    "party": "D",
+    "district": "9th"
+  },
+  "3410": {
+    "name": "LaMonica McIver",
+    "party": "D",
+    "district": "10th"
+  },
+  "3411": {
+    "name": "Mikie Sherrill",
+    "party": "D",
+    "district": "11th"
+  },
+  "3412": {
+    "name": "Bonnie Watson Coleman",
+    "party": "D",
+    "district": "12th"
+  },
+  "3501": {
+    "name": "Melanie A. Stansbury",
+    "party": "D",
+    "district": "1st"
+  },
+  "3502": {
+    "name": "Gabe Vasquez",
+    "party": "D",
+    "district": "2nd"
+  },
+  "3503": {
+    "name": "Teresa Leger Fernandez",
+    "party": "D",
+    "district": "3rd"
+  },
+  "3601": {
+    "name": "Nick LaLota",
+    "party": "R",
+    "district": "1st"
+  },
+  "3602": {
+    "name": "Andrew R. Garbarino",
+    "party": "R",
+    "district": "2nd"
+  },
+  "3603": {
+    "name": "Thomas R. Suozzi",
+    "party": "D",
+    "district": "3rd"
+  },
+  "3604": {
+    "name": "Laura Gillen",
+    "party": "D",
+    "district": "4th"
+  },
+  "3605": {
+    "name": "Gregory W. Meeks",
+    "party": "D",
+    "district": "5th"
+  },
+  "3606": {
+    "name": "Grace Meng",
+    "party": "D",
+    "district": "6th"
+  },
+  "3607": {
+    "name": "Nydia M. Velázquez",
+    "party": "D",
+    "district": "7th"
+  },
+  "3608": {
+    "name": "Hakeem S. Jeffries",
+    "party": "D",
+    "district": "8th"
+  },
+  "3609": {
+    "name": "Yvette D. Clarke",
+    "party": "D",
+    "district": "9th"
+  },
+  "3610": {
+    "name": "Daniel S. Goldman",
+    "party": "D",
+    "district": "10th"
+  },
+  "3611": {
+    "name": "Nicole Malliotakis",
+    "party": "R",
+    "district": "11th"
+  },
+  "3612": {
+    "name": "Jerrold Nadler",
+    "party": "D",
+    "district": "12th"
+  },
+  "3613": {
+    "name": "Adriano Espaillat",
+    "party": "D",
+    "district": "13th"
+  },
+  "3614": {
+    "name": "Alexandria Ocasio-Cortez",
+    "party": "D",
+    "district": "14th"
+  },
+  "3615": {
+    "name": "Ritchie Torres",
+    "party": "D",
+    "district": "15th"
+  },
+  "3616": {
+    "name": "George Latimer",
+    "party": "D",
+    "district": "16th"
+  },
+  "3617": {
+    "name": "Michael Lawler",
+    "party": "R",
+    "district": "17th"
+  },
+  "3618": {
+    "name": "Patrick Ryan",
+    "party": "D",
+    "district": "18th"
+  },
+  "3619": {
+    "name": "Josh Riley",
+    "party": "D",
+    "district": "19th"
+  },
+  "3620": {
+    "name": "Paul Tonko",
+    "party": "D",
+    "district": "20th"
+  },
+  "3621": {
+    "name": "Elise M. Stefanik",
+    "party": "R",
+    "district": "21st"
+  },
+  "3622": {
+    "name": "John W. Mannion",
+    "party": "D",
+    "district": "22nd"
+  },
+  "3623": {
+    "name": "Nicholas A. Langworthy",
+    "party": "R",
+    "district": "23rd"
+  },
+  "3624": {
+    "name": "Claudia Tenney",
+    "party": "R",
+    "district": "24th"
+  },
+  "3625": {
+    "name": "Joseph D. Morelle",
+    "party": "D",
+    "district": "25th"
+  },
+  "3626": {
+    "name": "Timothy M. Kennedy",
+    "party": "D",
+    "district": "26th"
+  },
+  "3701": {
+    "name": "Donald G. Davis",
+    "party": "D",
+    "district": "1st"
+  },
+  "3702": {
+    "name": "Deborah K. Ross",
+    "party": "D",
+    "district": "2nd"
+  },
+  "3703": {
+    "name": "Gregory F. Murphy",
+    "party": "R",
+    "district": "3rd"
+  },
+  "3704": {
+    "name": "Valerie P. Foushee",
+    "party": "D",
+    "district": "4th"
+  },
+  "3705": {
+    "name": "Virginia Foxx",
+    "party": "R",
+    "district": "5th"
+  },
+  "3706": {
+    "name": "Addison P. McDowell",
+    "party": "R",
+    "district": "6th"
+  },
+  "3707": {
+    "name": "David Rouzer",
+    "party": "R",
+    "district": "7th"
+  },
+  "3708": {
+    "name": "Mark Harris",
+    "party": "R",
+    "district": "8th"
+  },
+  "3709": {
+    "name": "Richard Hudson",
+    "party": "R",
+    "district": "9th"
+  },
+  "3710": {
+    "name": "Pat Harrigan",
+    "party": "R",
+    "district": "10th"
+  },
+  "3711": {
+    "name": "Chuck Edwards",
+    "party": "R",
+    "district": "11th"
+  },
+  "3712": {
+    "name": "Alma S. Adams",
+    "party": "D",
+    "district": "12th"
+  },
+  "3713": {
+    "name": "Brad Knott",
+    "party": "R",
+    "district": "13th"
+  },
+  "3714": {
+    "name": "Tim Moore",
+    "party": "R",
+    "district": "14th"
+  },
+  "3800": {
+    "name": "Julie Fedorchak",
+    "party": "R",
+    "district": "At Large"
+  },
+  "3901": {
+    "name": "Greg Landsman",
+    "party": "D",
+    "district": "1st"
+  },
+  "3902": {
+    "name": "David J. Taylor",
+    "party": "R",
+    "district": "2nd"
+  },
+  "3903": {
+    "name": "Joyce Beatty",
+    "party": "D",
+    "district": "3rd"
+  },
+  "3904": {
+    "name": "Jim Jordan",
+    "party": "R",
+    "district": "4th"
+  },
+  "3905": {
+    "name": "Robert E. Latta",
+    "party": "R",
+    "district": "5th"
+  },
+  "3906": {
+    "name": "Michael A. Rulli",
+    "party": "R",
+    "district": "6th"
+  },
+  "3907": {
+    "name": "Max L. Miller",
+    "party": "R",
+    "district": "7th"
+  },
+  "3908": {
+    "name": "Warren Davidson",
+    "party": "R",
+    "district": "8th"
+  },
+  "3909": {
+    "name": "Marcy Kaptur",
+    "party": "D",
+    "district": "9th"
+  },
+  "3910": {
+    "name": "Michael R. Turner",
+    "party": "R",
+    "district": "10th"
+  },
+  "3911": {
+    "name": "Shontel M. Brown",
+    "party": "D",
+    "district": "11th"
+  },
+  "3912": {
+    "name": "Troy Balderson",
+    "party": "R",
+    "district": "12th"
+  },
+  "3913": {
+    "name": "Emilia Strong Sykes",
+    "party": "D",
+    "district": "13th"
+  },
+  "3914": {
+    "name": "David P. Joyce",
+    "party": "R",
+    "district": "14th"
+  },
+  "3915": {
+    "name": "Mike Carey",
+    "party": "R",
+    "district": "15th"
+  },
+  "4001": {
+    "name": "Kevin Hern",
+    "party": "R",
+    "district": "1st"
+  },
+  "4002": {
+    "name": "Josh Brecheen",
+    "party": "R",
+    "district": "2nd"
+  },
+  "4003": {
+    "name": "Frank D. Lucas",
+    "party": "R",
+    "district": "3rd"
+  },
+  "4004": {
+    "name": "Tom Cole",
+    "party": "R",
+    "district": "4th"
+  },
+  "4005": {
+    "name": "Stephanie I. Bice",
+    "party": "R",
+    "district": "5th"
+  },
+  "4101": {
+    "name": "Suzanne Bonamici",
+    "party": "D",
+    "district": "1st"
+  },
+  "4102": {
+    "name": "Cliff Bentz",
+    "party": "R",
+    "district": "2nd"
+  },
+  "4103": {
+    "name": "Maxine Dexter",
+    "party": "D",
+    "district": "3rd"
+  },
+  "4104": {
+    "name": "Val T. Hoyle",
+    "party": "D",
+    "district": "4th"
+  },
+  "4105": {
+    "name": "Janelle S. Bynum",
+    "party": "D",
+    "district": "5th"
+  },
+  "4106": {
+    "name": "Andrea Salinas",
+    "party": "D",
+    "district": "6th"
+  },
+  "4201": {
+    "name": "Brian K. Fitzpatrick",
+    "party": "R",
+    "district": "1st"
+  },
+  "4202": {
+    "name": "Brendan F. Boyle",
+    "party": "D",
+    "district": "2nd"
+  },
+  "4203": {
+    "name": "Dwight Evans",
+    "party": "D",
+    "district": "3rd"
+  },
+  "4204": {
+    "name": "Madeleine Dean",
+    "party": "D",
+    "district": "4th"
+  },
+  "4205": {
+    "name": "Mary Gay Scanlon",
+    "party": "D",
+    "district": "5th"
+  },
+  "4206": {
+    "name": "Chrissy Houlahan",
+    "party": "D",
+    "district": "6th"
+  },
+  "4207": {
+    "name": "Ryan Mackenzie",
+    "party": "R",
+    "district": "7th"
+  },
+  "4208": {
+    "name": "Robert P. Bresnahan, Jr.",
+    "party": "R",
+    "district": "8th"
+  },
+  "4209": {
+    "name": "Daniel Meuser",
+    "party": "R",
+    "district": "9th"
+  },
+  "4210": {
+    "name": "Scott Perry",
+    "party": "R",
+    "district": "10th"
+  },
+  "4211": {
+    "name": "Lloyd Smucker",
+    "party": "R",
+    "district": "11th"
+  },
+  "4212": {
+    "name": "Summer L. Lee",
+    "party": "D",
+    "district": "12th"
+  },
+  "4213": {
+    "name": "John Joyce",
+    "party": "R",
+    "district": "13th"
+  },
+  "4214": {
+    "name": "Guy Reschenthaler",
+    "party": "R",
+    "district": "14th"
+  },
+  "4215": {
+    "name": "Glenn Thompson",
+    "party": "R",
+    "district": "15th"
+  },
+  "4216": {
+    "name": "Mike Kelly",
+    "party": "R",
+    "district": "16th"
+  },
+  "4217": {
+    "name": "Christopher R. Deluzio",
+    "party": "D",
+    "district": "17th"
+  },
+  "4401": {
+    "name": "Gabe Amo",
+    "party": "D",
+    "district": "1st"
+  },
+  "4402": {
+    "name": "Seth Magaziner",
+    "party": "D",
+    "district": "2nd"
+  },
+  "4501": {
+    "name": "Nancy Mace",
+    "party": "R",
+    "district": "1st"
+  },
+  "4502": {
+    "name": "Joe Wilson",
+    "party": "R",
+    "district": "2nd"
+  },
+  "4503": {
+    "name": "Sheri Biggs",
+    "party": "R",
+    "district": "3rd"
+  },
+  "4504": {
+    "name": "William R. Timmons IV",
+    "party": "R",
+    "district": "4th"
+  },
+  "4505": {
+    "name": "Ralph Norman",
+    "party": "R",
+    "district": "5th"
+  },
+  "4506": {
+    "name": "James E. Clyburn",
+    "party": "D",
+    "district": "6th"
+  },
+  "4507": {
+    "name": "Russell Fry",
+    "party": "R",
+    "district": "7th"
+  },
+  "4600": {
+    "name": "Dusty Johnson",
+    "party": "R",
+    "district": "At Large"
+  },
+  "4701": {
+    "name": "Diana Harshbarger",
+    "party": "R",
+    "district": "1st"
+  },
+  "4702": {
+    "name": "Tim Burchett",
+    "party": "R",
+    "district": "2nd"
+  },
+  "4703": {
+    "name": "Charles J. \"Chuck\" Fleischmann",
+    "party": "R",
+    "district": "3rd"
+  },
+  "4704": {
+    "name": "Scott DesJarlais",
+    "party": "R",
+    "district": "4th"
+  },
+  "4705": {
+    "name": "Andrew Ogles",
+    "party": "R",
+    "district": "5th"
+  },
+  "4706": {
+    "name": "John W. Rose",
+    "party": "R",
+    "district": "6th"
+  },
+  "4707": {
+    "name": "Vacant",
+    "party": "Vacant",
+    "district": "7th"
+  },
+  "4708": {
+    "name": "David Kustoff",
+    "party": "R",
+    "district": "8th"
+  },
+  "4709": {
+    "name": "Steve Cohen",
+    "party": "D",
+    "district": "9th"
+  },
+  "4801": {
+    "name": "Nathaniel Moran",
+    "party": "R",
+    "district": "1st"
+  },
+  "4802": {
+    "name": "Dan Crenshaw",
+    "party": "R",
+    "district": "2nd"
+  },
+  "4803": {
+    "name": "Keith Self",
+    "party": "R",
+    "district": "3rd"
+  },
+  "4804": {
+    "name": "Pat Fallon",
+    "party": "R",
+    "district": "4th"
+  },
+  "4805": {
+    "name": "Lance Gooden",
+    "party": "R",
+    "district": "5th"
+  },
+  "4806": {
+    "name": "Jake Ellzey",
+    "party": "R",
+    "district": "6th"
+  },
+  "4807": {
+    "name": "Lizzie Fletcher",
+    "party": "D",
+    "district": "7th"
+  },
+  "4808": {
+    "name": "Morgan Luttrell",
+    "party": "R",
+    "district": "8th"
+  },
+  "4809": {
+    "name": "Al Green",
+    "party": "D",
+    "district": "9th"
+  },
+  "4810": {
+    "name": "Michael T. McCaul",
+    "party": "R",
+    "district": "10th"
+  },
+  "4811": {
+    "name": "August Pfluger",
+    "party": "R",
+    "district": "11th"
+  },
+  "4812": {
+    "name": "Craig A. Goldman",
+    "party": "R",
+    "district": "12th"
+  },
+  "4813": {
+    "name": "Ronny Jackson",
+    "party": "R",
+    "district": "13th"
+  },
+  "4814": {
+    "name": "Randy K. Weber, Sr.",
+    "party": "R",
+    "district": "14th"
+  },
+  "4815": {
+    "name": "Monica De La Cruz",
+    "party": "R",
+    "district": "15th"
+  },
+  "4816": {
+    "name": "Veronica Escobar",
+    "party": "D",
+    "district": "16th"
+  },
+  "4817": {
+    "name": "Pete Sessions",
+    "party": "R",
+    "district": "17th"
+  },
+  "4818": {
+    "name": "Vacant",
+    "party": "Vacant",
+    "district": "18th"
+  },
+  "4819": {
+    "name": "Jodey C. Arrington",
+    "party": "R",
+    "district": "19th"
+  },
+  "4820": {
+    "name": "Joaquin Castro",
+    "party": "D",
+    "district": "20th"
+  },
+  "4821": {
+    "name": "Chip Roy",
+    "party": "R",
+    "district": "21st"
+  },
+  "4822": {
+    "name": "Troy E. Nehls",
+    "party": "R",
+    "district": "22nd"
+  },
+  "4823": {
+    "name": "Tony Gonzales",
+    "party": "R",
+    "district": "23rd"
+  },
+  "4824": {
+    "name": "Beth Van Duyne",
+    "party": "R",
+    "district": "24th"
+  },
+  "4825": {
+    "name": "Roger Williams",
+    "party": "R",
+    "district": "25th"
+  },
+  "4826": {
+    "name": "Brandon Gill",
+    "party": "R",
+    "district": "26th"
+  },
+  "4827": {
+    "name": "Michael Cloud",
+    "party": "R",
+    "district": "27th"
+  },
+  "4828": {
+    "name": "Henry Cuellar",
+    "party": "D",
+    "district": "28th"
+  },
+  "4829": {
+    "name": "Sylvia R. Garcia",
+    "party": "D",
+    "district": "29th"
+  },
+  "4830": {
+    "name": "Jasmine Crockett",
+    "party": "D",
+    "district": "30th"
+  },
+  "4831": {
+    "name": "John R. Carter",
+    "party": "R",
+    "district": "31st"
+  },
+  "4832": {
+    "name": "Julie Johnson",
+    "party": "D",
+    "district": "32nd"
+  },
+  "4833": {
+    "name": "Marc A. Veasey",
+    "party": "D",
+    "district": "33rd"
+  },
+  "4834": {
+    "name": "Vicente Gonzalez",
+    "party": "D",
+    "district": "34th"
+  },
+  "4835": {
+    "name": "Greg Casar",
+    "party": "D",
+    "district": "35th"
+  },
+  "4836": {
+    "name": "Brian Babin",
+    "party": "R",
+    "district": "36th"
+  },
+  "4837": {
+    "name": "Lloyd Doggett",
+    "party": "D",
+    "district": "37th"
+  },
+  "4838": {
+    "name": "Wesley Hunt",
+    "party": "R",
+    "district": "38th"
+  },
+  "4901": {
+    "name": "Blake D. Moore",
+    "party": "R",
+    "district": "1st"
+  },
+  "4902": {
+    "name": "Celeste Maloy",
+    "party": "R",
+    "district": "2nd"
+  },
+  "4903": {
+    "name": "Mike Kennedy",
+    "party": "R",
+    "district": "3rd"
+  },
+  "4904": {
+    "name": "Burgess Owens",
+    "party": "R",
+    "district": "4th"
+  },
+  "5000": {
+    "name": "Becca Balint",
+    "party": "D",
+    "district": "At Large"
+  },
+  "5101": {
+    "name": "Robert J. Wittman",
+    "party": "R",
+    "district": "1st"
+  },
+  "5102": {
+    "name": "Jennifer A. Kiggans",
+    "party": "R",
+    "district": "2nd"
+  },
+  "5103": {
+    "name": "Robert C. \"Bobby\" Scott",
+    "party": "D",
+    "district": "3rd"
+  },
+  "5104": {
+    "name": "Jennifer L. McClellan",
+    "party": "D",
+    "district": "4th"
+  },
+  "5105": {
+    "name": "John J. McGuire III",
+    "party": "R",
+    "district": "5th"
+  },
+  "5106": {
+    "name": "Ben Cline",
+    "party": "R",
+    "district": "6th"
+  },
+  "5107": {
+    "name": "Eugene Simon Vindman",
+    "party": "D",
+    "district": "7th"
+  },
+  "5108": {
+    "name": "Donald S. Beyer, Jr.",
+    "party": "D",
+    "district": "8th"
+  },
+  "5109": {
+    "name": "H. Morgan Griffith",
+    "party": "R",
+    "district": "9th"
+  },
+  "5110": {
+    "name": "Suhas Subramanyam",
+    "party": "D",
+    "district": "10th"
+  },
+  "5111": {
+    "name": "James R. Walkinshaw",
+    "party": "D",
+    "district": "11th"
+  },
+  "5301": {
+    "name": "Suzan K. DelBene",
+    "party": "D",
+    "district": "1st"
+  },
+  "5302": {
+    "name": "Rick Larsen",
+    "party": "D",
+    "district": "2nd"
+  },
+  "5303": {
+    "name": "Marie Gluesenkamp Perez",
+    "party": "D",
+    "district": "3rd"
+  },
+  "5304": {
+    "name": "Dan Newhouse",
+    "party": "R",
+    "district": "4th"
+  },
+  "5305": {
+    "name": "Michael Baumgartner",
+    "party": "R",
+    "district": "5th"
+  },
+  "5306": {
+    "name": "Emily Randall",
+    "party": "D",
+    "district": "6th"
+  },
+  "5307": {
+    "name": "Pramila Jayapal",
+    "party": "D",
+    "district": "7th"
+  },
+  "5308": {
+    "name": "Kim Schrier",
+    "party": "D",
+    "district": "8th"
+  },
+  "5309": {
+    "name": "Adam Smith",
+    "party": "D",
+    "district": "9th"
+  },
+  "5310": {
+    "name": "Marilyn Strickland",
+    "party": "D",
+    "district": "10th"
+  },
+  "5401": {
+    "name": "Carol D. Miller",
+    "party": "R",
+    "district": "1st"
+  },
+  "5402": {
+    "name": "Riley M. Moore",
+    "party": "R",
+    "district": "2nd"
+  },
+  "5501": {
+    "name": "Bryan Steil",
+    "party": "R",
+    "district": "1st"
+  },
+  "5502": {
+    "name": "Mark Pocan",
+    "party": "D",
+    "district": "2nd"
+  },
+  "5503": {
+    "name": "Derrick Van Orden",
+    "party": "R",
+    "district": "3rd"
+  },
+  "5504": {
+    "name": "Gwen Moore",
+    "party": "D",
+    "district": "4th"
+  },
+  "5505": {
+    "name": "Scott Fitzgerald",
+    "party": "R",
+    "district": "5th"
+  },
+  "5506": {
+    "name": "Glenn Grothman",
+    "party": "R",
+    "district": "6th"
+  },
+  "5507": {
+    "name": "Thomas P. Tiffany",
+    "party": "R",
+    "district": "7th"
+  },
+  "5508": {
+    "name": "Tony Wied",
+    "party": "R",
+    "district": "8th"
+  },
+  "5600": {
+    "name": "Harriet M. Hageman",
+    "party": "R",
+    "district": "At Large"
+  },
+  "7298": {
+    "name": "Pablo José Hernández",
+    "party": "D",
+    "district": "Resident Commissioner"
+  },
+  "0650": {
+    "name": "Scott H. Peters",
+    "party": "D",
+    "district": "50th"
+  },
+  "0639": {
+    "name": "Mark Takano",
+    "party": "D",
+    "district": "39th"
+  },
+  "0636": {
+    "name": "Ted Lieu",
+    "party": "D",
+    "district": "36th"
+  },
+  "0621": {
+    "name": "Jim Costa",
+    "party": "D",
+    "district": "21st"
+  },
+  "0604": {
+    "name": "Mike Thompson",
+    "party": "D",
+    "district": "4th"
+  },
+  "0623": {
+    "name": "Jay Obernolte",
+    "party": "R",
+    "district": "23rd"
+  },
+  "0637": {
+    "name": "Sydney Kamlager-Dove",
+    "party": "D",
+    "district": "37th"
+  },
+  "0613": {
+    "name": "Adam Gray",
+    "party": "D",
+    "district": "13th"
+  },
+  "0504": {
+    "name": "Bruce Westerman",
+    "party": "R",
+    "district": "4th"
+  },
+  "0102": {
+    "name": "Shomari Figures",
+    "party": "D",
+    "district": "2nd"
+  },
+  "0806": {
+    "name": "Jason Crow",
+    "party": "D",
+    "district": "6th"
+  },
+  "0624": {
+    "name": "Salud O. Carbajal",
+    "party": "D",
+    "district": "24th"
+  },
+  "0618": {
+    "name": "Zoe Lofgren",
+    "party": "D",
+    "district": "18th"
+  },
+  "0106": {
+    "name": "Gary J. Palmer",
+    "party": "R",
+    "district": "6th"
+  },
+  "0647": {
+    "name": "Dave Min",
+    "party": "D",
+    "district": "47th"
+  },
+  "0642": {
+    "name": "Robert Garcia",
+    "party": "D",
+    "district": "42nd"
+  },
+  "0632": {
+    "name": "Brad Sherman",
+    "party": "D",
+    "district": "32nd"
+  },
+  "0617": {
+    "name": "Ro Khanna",
+    "party": "D",
+    "district": "17th"
+  },
+  "0635": {
+    "name": "Norma J. Torres",
+    "party": "D",
+    "district": "35th"
+  },
+  "0646": {
+    "name": "J. Luis Correa",
+    "party": "D",
+    "district": "46th"
+  },
+  "0409": {
+    "name": "Paul A. Gosar",
+    "party": "R",
+    "district": "9th"
+  },
+  "0406": {
+    "name": "Juan Ciscomani",
+    "party": "R",
+    "district": "6th"
+  },
+  "0404": {
+    "name": "Greg Stanton",
+    "party": "D",
+    "district": "4th"
+  },
+  "0625": {
+    "name": "Raul Ruiz",
+    "party": "D",
+    "district": "25th"
+  },
+  "0641": {
+    "name": "Ken Calvert",
+    "party": "R",
+    "district": "41st"
+  },
+  "0651": {
+    "name": "Sara Jacobs",
+    "party": "D",
+    "district": "51st"
+  },
+  "0626": {
+    "name": "Julia Brownley",
+    "party": "D",
+    "district": "26th"
+  },
+  "0808": {
+    "name": "Gabe Evans",
+    "party": "R",
+    "district": "8th"
+  },
+  "0807": {
+    "name": "Brittany Pettersen",
+    "party": "D",
+    "district": "7th"
+  },
+  "0901": {
+    "name": "John B. Larson",
+    "party": "D",
+    "district": "1st"
+  },
+  "0905": {
+    "name": "Jahana Hayes",
+    "party": "D",
+    "district": "5th"
+  },
+  "0612": {
+    "name": "Lateefah Simon",
+    "party": "D",
+    "district": "12th"
+  },
+  "0649": {
+    "name": "Mike Levin",
+    "party": "D",
+    "district": "49th"
+  },
+  "0603": {
+    "name": "Kevin Kiley",
+    "party": "R",
+    "district": "3rd"
+  },
+  "0633": {
+    "name": "Pete Aguilar",
+    "party": "D",
+    "district": "33rd"
+  },
+  "0629": {
+    "name": "Luz M. Rivas",
+    "party": "D",
+    "district": "29th"
+  },
+  "0803": {
+    "name": "Jeff Hurd",
+    "party": "R",
+    "district": "3rd"
+  },
+  "0644": {
+    "name": "Nanette Diaz Barragán",
+    "party": "D",
+    "district": "44th"
+  },
+  "0605": {
+    "name": "Tom McClintock",
+    "party": "R",
+    "district": "5th"
+  },
+  "0606": {
+    "name": "Ami Bera",
+    "party": "D",
+    "district": "6th"
+  },
+  "0801": {
+    "name": "Diana DeGette",
+    "party": "D",
+    "district": "1st"
+  },
+  "0614": {
+    "name": "Eric Swalwell",
+    "party": "D",
+    "district": "14th"
+  },
+  "0638": {
+    "name": "Linda T. Sánchez",
+    "party": "D",
+    "district": "38th"
+  },
+  "0609": {
+    "name": "Josh Harder",
+    "party": "D",
+    "district": "9th"
+  },
+  "0104": {
+    "name": "Robert B. Aderholt",
+    "party": "R",
+    "district": "4th"
+  },
+  "0502": {
+    "name": "J. French Hill",
+    "party": "R",
+    "district": "2nd"
+  },
+  "0622": {
+    "name": "David G. Valadao",
+    "party": "R",
+    "district": "22nd"
+  },
+  "0616": {
+    "name": "Sam T. Liccardo",
+    "party": "D",
+    "district": "16th"
+  },
+  "0107": {
+    "name": "Terri A. Sewell",
+    "party": "D",
+    "district": "7th"
+  },
+  "0631": {
+    "name": "Gilbert Ray Cisneros, Jr.",
+    "party": "D",
+    "district": "31st"
+  },
+  "0407": {
+    "name": "Vacant",
+    "party": "Vacant",
+    "district": "7th"
+  },
+  "0652": {
+    "name": "Juan Vargas",
+    "party": "D",
+    "district": "52nd"
+  },
+  "0802": {
+    "name": "Joe Neguse",
+    "party": "D",
+    "district": "2nd"
+  },
+  "0402": {
+    "name": "Elijah Crane",
+    "party": "R",
+    "district": "2nd"
+  },
+  "0620": {
+    "name": "Vince Fong",
+    "party": "R",
+    "district": "20th"
+  },
+  "0903": {
+    "name": "Rosa L. DeLauro",
+    "party": "D",
+    "district": "3rd"
+  },
+  "0103": {
+    "name": "Mike Rogers",
+    "party": "R",
+    "district": "3rd"
+  },
+  "0105": {
+    "name": "Dale W. Strong",
+    "party": "R",
+    "district": "5th"
+  },
+  "0904": {
+    "name": "James A. Himes",
+    "party": "D",
+    "district": "4th"
+  },
+  "0610": {
+    "name": "Mark DeSaulnier",
+    "party": "D",
+    "district": "10th"
+  },
+  "0643": {
+    "name": "Maxine Waters",
+    "party": "D",
+    "district": "43rd"
+  },
+  "0634": {
+    "name": "Jimmy Gomez",
+    "party": "D",
+    "district": "34th"
+  },
+  "0501": {
+    "name": "Eric A. \"Rick\" Crawford",
+    "party": "R",
+    "district": "1st"
+  },
+  "0615": {
+    "name": "Kevin Mullin",
+    "party": "D",
+    "district": "15th"
+  },
+  "0804": {
+    "name": "Lauren Boebert",
+    "party": "R",
+    "district": "4th"
+  },
+  "0607": {
+    "name": "Doris O. Matsui",
+    "party": "D",
+    "district": "7th"
+  },
+  "0601": {
+    "name": "Doug LaMalfa",
+    "party": "R",
+    "district": "1st"
+  },
+  "0630": {
+    "name": "Laura Friedman",
+    "party": "D",
+    "district": "30th"
+  },
+  "0627": {
+    "name": "George Whitesides",
+    "party": "D",
+    "district": "27th"
+  },
+  "0200": {
+    "name": "Nicholas J. Begich III",
+    "party": "R",
+    "district": "At Large"
+  },
+  "0408": {
+    "name": "Abraham J. Hamadeh",
+    "party": "R",
+    "district": "8th"
+  },
+  "0608": {
+    "name": "John Garamendi",
+    "party": "D",
+    "district": "8th"
+  },
+  "0101": {
+    "name": "Barry Moore",
+    "party": "R",
+    "district": "1st"
+  },
+  "0602": {
+    "name": "Jared Huffman",
+    "party": "D",
+    "district": "2nd"
+  },
+  "0401": {
+    "name": "David Schweikert",
+    "party": "R",
+    "district": "1st"
+  },
+  "0405": {
+    "name": "Andy Biggs",
+    "party": "R",
+    "district": "5th"
+  },
+  "0648": {
+    "name": "Darrell Issa",
+    "party": "R",
+    "district": "48th"
+  },
+  "0628": {
+    "name": "Judy Chu",
+    "party": "D",
+    "district": "28th"
+  },
+  "0619": {
+    "name": "Jimmy Panetta",
+    "party": "D",
+    "district": "19th"
+  },
+  "0403": {
+    "name": "Yassamin Ansari",
+    "party": "D",
+    "district": "3rd"
+  },
+  "0611": {
+    "name": "Nancy Pelosi",
+    "party": "D",
+    "district": "11th"
+  },
+  "0645": {
+    "name": "Derek Tran",
+    "party": "D",
+    "district": "45th"
+  },
+  "0805": {
+    "name": "Jeff Crank",
+    "party": "R",
+    "district": "5th"
+  },
+  "0902": {
+    "name": "Joe Courtney",
+    "party": "D",
+    "district": "2nd"
+  },
+  "0640": {
+    "name": "Young Kim",
+    "party": "R",
+    "district": "40th"
+  },
+  "0503": {
+    "name": "Steve Womack",
+    "party": "R",
+    "district": "3rd"
+  }
+}
